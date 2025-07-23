@@ -1,2 +1,4 @@
 # List of sites to scan for ads
 https://www.anime-yuzu.com/
+https://www.anime-sugoi.com/
+https://doomoviehd.net/
