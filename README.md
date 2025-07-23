@@ -1,0 +1,1 @@
+# scrawny-img-ads-blocker
