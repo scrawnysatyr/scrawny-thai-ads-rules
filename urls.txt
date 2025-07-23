@@ -1,0 +1,2 @@
+# List of sites to scan for ads
+https://www.anime-yuzu.com/
