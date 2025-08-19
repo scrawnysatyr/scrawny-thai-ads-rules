@@ -1,1 +1,1 @@
-# scrawny-img-ads-blocker
+# scrawny-thai-ads-rules
