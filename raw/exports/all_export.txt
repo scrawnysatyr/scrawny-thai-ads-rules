@@ -1,8 +1,8 @@
-# All exports at 2025-09-23 13:49:16
+# All exports at 2025-09-23 14:49:32
 
 
 #### flash-manga.com_export.txt ####
-# Export for flash-manga.com at 2025-09-23 13:49:16
+# Export for flash-manga.com at 2025-09-23 14:49:32
 
 # External image-link destinations (unique):
 https://cutt.ly/Sexy_flash-manga
@@ -43,7 +43,7 @@ flash-manga.com##a[href*=".php?"][href*="http"]:not([href*="flash-manga.com"])
 
 
 #### go-manga.com_export.txt ####
-# Export for go-manga.com at 2025-09-23 13:49:16
+# Export for go-manga.com at 2025-09-23 14:49:32
 
 # External image-link destinations (unique):
 https://4x4xbet.com
@@ -138,7 +138,7 @@ go-manga.com##a[href*=".php?"][href*="http"]:not([href*="go-manga.com"])
 
 
 #### oremanga.net_export.txt ####
-# Export for oremanga.net at 2025-09-23 13:49:16
+# Export for oremanga.net at 2025-09-23 14:49:32
 
 # External image-link destinations (unique):
 https://8xbet-vvip.cc/
@@ -187,4 +187,92 @@ oremanga.net##a[href*=".php?"][href*="http"]:not([href*="oremanga.net"])
 ||ibit.ly^$image,domain=oremanga.net
 ||lionth.online^$image,domain=oremanga.net
 ||www.apporbit.com^$image,domain=oremanga.net
+
+
+#### up-manga.com_export.txt ####
+# Export for up-manga.com at 2025-09-23 14:49:32
+
+# External image-link destinations (unique):
+https://4x4xbet.com
+https://avawinx.org/?action=register&marketingRef=68876c4dc5b1142f34d8f0d0
+https://discord.com/invite/CGDRvsNpcs
+https://rheonix.com
+https://twitter.com/upmangax
+https://www.facebook.com/upmangath
+https://www.taverninthewall.com/contact
+
+# Redirectors (*.php?* with URL params):
+https://8xbet238.com
+https://aff.mutigoal.com/aff/g651u4ahi9
+https://apricathailand.com
+https://bj88thai3.com
+https://chow-bryant.com
+https://cityclubapp.com
+https://cutt.ly/PrVilg4l
+https://gizmodo.uol.com.br/à¸ªà¸¥à¹à¸­à¸à¹à¸à¸-2025
+https://gizmodo.uol.com.br/สล็อตแตก-2025
+https://hengjing168.guru
+https://ibit.ly/hydra88
+https://ibit.ly/kingdom66
+https://ibit.ly/lalika168
+https://ibit.ly/lockdown168
+https://ibit.ly/lotto77
+https://ibit.ly/panama888
+https://ibit.ly/sagame1688
+https://ibit.ly/sexygame1688
+https://ibit.ly/ufafat
+https://ibit.ly/ufanance
+https://ibit.ly/ufazeed
+https://jennyspizza.com
+https://keyworddensitychecker.com
+https://longbeachtavern.com/contact-us
+https://nexobet44.com
+https://pgjoker69h.com
+https://pgk44.today
+https://pigbet.net
+https://pigslot.co
+https://pinkland.net
+https://rigaunited.com
+https://sexybaccarat7.com
+https://sexygame992f.com
+https://slovakstartup.com
+https://stcharlesgymnastics.com
+https://texaschihuahuarescue.org
+https://ufabetbnb.com
+https://www.availhospitals.com/contact
+https://www.bfk168.app
+https://www.booksourcebanter.com
+https://www.cabinetmusic.com/about
+https://www.ecometer.org
+https://www.greenpalm.org
+https://www.himachalhillportercompany.org
+https://www.lemonnginger.com/menu
+https://www.lovethesign.com
+https://www.misterchimi.com
+https://www.moistbeach.com
+https://www.sempower.com
+https://www.slotxo24hra.com
+https://www.terracottawinebistro.com
+https://www.thejazzcat.net
+https://www.ufabet.cn.com
+https://www.ufasexygame10.com
+https://www.upscribe.io
+
+# Cosmetic hints (from specialrules):
+
+# uBlock/AdGuard HINTS (edit to taste):
+## These suggestions avoid first-party CSS/JS breakage.
+@@||up-manga.com^$script,stylesheet,domain=up-manga.com
+@@||www.up-manga.com^$script,stylesheet,domain=up-manga.com
+up-manga.com##a:has(img):not([href^="/"]):not([href*="up-manga.com"])
+up-manga.com##a[href*=".php?"][href*="http"]:not([href*="up-manga.com"])
+
+## Optional: network rules for external image hosts on this site only
+||4x4xbet.com^$image,domain=up-manga.com
+||avawinx.org^$image,domain=up-manga.com
+||discord.com^$image,domain=up-manga.com
+||rheonix.com^$image,domain=up-manga.com
+||twitter.com^$image,domain=up-manga.com
+||www.facebook.com^$image,domain=up-manga.com
+||www.taverninthewall.com^$image,domain=up-manga.com
 
