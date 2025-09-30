@@ -1,15 +1,15 @@
 ! Title: Scrawny's Auto-gen Thai Filters
 ! Description: Auto-gen Thai Filters
-! Version: 2025-09-30T15:56:58+07:00
-! Last modified: 2025-09-30T15:56:58+07:00
+! Version: 2025-09-30T16:21:54+07:00
+! Last modified: 2025-09-30T16:21:54+07:00
 ! Expires: 1 days
 ! Homepage: https://github.com/scrawnysatyr/scrawny-thai-ads-rules/
 
-# All exports at 2025-09-30 15:56:58+0700
+# All exports at 2025-09-30 16:21:54+0700
 
 
 #### go-manga.com_export.txt ####
-# Export for go-manga.com at 2025-09-30 15:56:58+0700
+# Export for go-manga.com at 2025-09-30 16:21:54+0700
 
 # External image-link destinations (unique):
 https://4x4xbet.com
@@ -38,7 +38,6 @@ https://cutt.ly/ArVilV0p
 https://endevis.com
 https://fox888-login.net
 https://gizmodo.uol.com.br/à¸ªà¸¥à¹à¸­à¸à¹à¸à¸-2025
-https://gizmodo.uol.com.br/สล็อตแตก-2025
 https://hengjing168.guru
 https://ibit.ly/boston777
 https://ibit.ly/brazil999
