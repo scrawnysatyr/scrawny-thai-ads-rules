@@ -1,15 +1,15 @@
 ! Title: Scrawny's Auto-gen Thai Filters
 ! Description: Auto-gen Thai Filters
-! Version: 2025-09-30T08:22:30Z
-! Last modified: 2025-09-30T08:22:30Z
+! Version: 2025-09-30T15:56:58+07:00
+! Last modified: 2025-09-30T15:56:58+07:00
 ! Expires: 1 days
 ! Homepage: https://github.com/scrawnysatyr/scrawny-thai-ads-rules/
 
-# All exports at 2025-09-30 08:22:30Z
+# All exports at 2025-09-30 15:56:58+0700
 
 
 #### go-manga.com_export.txt ####
-# Export for go-manga.com at 2025-09-30 08:22:30Z
+# Export for go-manga.com at 2025-09-30 15:56:58+0700
 
 # External image-link destinations (unique):
 https://4x4xbet.com
@@ -80,18 +80,31 @@ https://www.thewydown.com
 https://www.ufabet.cn.com
 https://www.ufasexygame10.com
 
-# Cosmetic hints (from specialrules):
-#sticky-bottom
-#sticky-bottom2
-#sticky-bottom3
-.center_gomanga
-.center_gomangasolo
-.floating_content
-.sticky-bottom-inside
-.sticky-bottom2-inside
-.sticky-bottom3-inside
-.sticky-close
-a[href^="/link_to.php?url="]
-img[src*="manga728x400v2.gif"]
-img[src*="mangav2.gif"]
+# Cosmetic rules (scoped to this domain):
+go-manga.com###sticky-bottom
+www.go-manga.com###sticky-bottom
+go-manga.com###sticky-bottom2
+www.go-manga.com###sticky-bottom2
+go-manga.com###sticky-bottom3
+www.go-manga.com###sticky-bottom3
+go-manga.com##.center_gomanga
+www.go-manga.com##.center_gomanga
+go-manga.com##.center_gomangasolo
+www.go-manga.com##.center_gomangasolo
+go-manga.com##.floating_content
+www.go-manga.com##.floating_content
+go-manga.com##.sticky-bottom-inside
+www.go-manga.com##.sticky-bottom-inside
+go-manga.com##.sticky-bottom2-inside
+www.go-manga.com##.sticky-bottom2-inside
+go-manga.com##.sticky-bottom3-inside
+www.go-manga.com##.sticky-bottom3-inside
+go-manga.com##.sticky-close
+www.go-manga.com##.sticky-close
+go-manga.com##a[href^="/link_to.php?url="]
+www.go-manga.com##a[href^="/link_to.php?url="]
+go-manga.com##img[src*="manga728x400v2.gif"]
+www.go-manga.com##img[src*="manga728x400v2.gif"]
+go-manga.com##img[src*="mangav2.gif"]
+www.go-manga.com##img[src*="mangav2.gif"]
 
