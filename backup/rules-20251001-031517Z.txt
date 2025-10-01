@@ -1,0 +1,110 @@
+! Title: Scrawny's Auto-gen Thai Filters
+! Description: Auto-gen Thai Filters
+! Version: 2025-10-01T10:10:12+07:00
+! Last modified: 2025-10-01T10:10:12+07:00
+! Expires: 1 days
+! Homepage: https://github.com/scrawnysatyr/scrawny-thai-ads-rules/
+
+# All exports at 2025-10-01 10:10:12+0700
+
+
+#### go-manga.com_export.txt ####
+# Export for go-manga.com at 2025-10-01 10:10:12+0700
+
+# External image-link destinations (unique):
+https://4x4xbet.com
+https://discord.com/invite/CGDRvsNpcs
+https://greatsportsdome.com/contact-us
+https://m.w88bbn.com/?affiliateid=1621
+https://millardhomeinspections.com/services
+https://pgk44.today
+https://rheonix.com
+https://t.ly/dCtMY
+https://t.ly/go-manga
+https://twitter.com/manga191z
+https://ubet89.io/register?openExternalBrowser=1&pid=532
+https://www.facebook.com/profile.php?id=61559139298647
+https://www.taptap.asia/th-th/sign-up?affiliateCode=600700&vendorid=19002&VendorType=2
+https://www.taverninthewall.com/contact
+
+# Redirectors (*.php?* with URL params):
+https://aliciagarza.com
+https://alpha88live.com/tracker/124722
+https://apricathailand.com
+https://bit.ly/OLEGOV1
+https://bj88thai3.com
+https://cuafc.org
+https://cutt.ly/ArVilV0p
+https://endevis.com
+https://fox888-login.net
+https://gizmodo.uol.com.br/à¸ªà¸¥à¹à¸­à¸à¹à¸à¸-2025
+https://gizmodo.uol.com.br/สล็อตแตก-2025
+https://hengjing168.guru
+https://ibit.ly/boston777
+https://ibit.ly/brazil999
+https://ibit.ly/lotto432
+https://ibit.ly/ufazeed
+https://longbeachtavern.com/contact-us
+https://loveandbananas.com
+https://myfinancialops.org
+https://nexobet44.com
+https://pawsga.org
+https://pgjoker69h.com
+https://pigbet.net
+https://pigslot.co
+https://pinkland.net
+https://regulatemi.org
+https://rigaunited.com
+https://sexybaccarat7.com
+https://sexygame992f.com
+https://slovakstartup.com
+https://stcharlesgymnastics.com
+https://t.ly/dCtMY
+https://t.ly/go-manga
+https://theclarendonarms.com
+https://tinyurl.com/B1C29034
+https://tinyurl.com/BDFB1E08
+https://trinityexploration.com
+https://ufabetl.net/regis/agent_gomanga
+https://ufafox88.vip
+https://www.bfk168.app
+https://www.cabinetmusic.com/about
+https://www.carboneroelmayor.net
+https://www.constructionhistorysociety.org
+https://www.facebook.com/profile.php?id=61559139298647
+https://www.go-manga.com
+https://www.haroldlopeznussa.com
+https://www.lemonnginger.com/menu
+https://www.misterchimi.com
+https://www.thewydown.com
+https://www.ufabet.cn.com
+https://www.ufasexygame10.com
+
+# Cosmetic rules (scoped to this domain):
+go-manga.com###sticky-bottom
+www.go-manga.com###sticky-bottom
+go-manga.com###sticky-bottom2
+www.go-manga.com###sticky-bottom2
+go-manga.com###sticky-bottom3
+www.go-manga.com###sticky-bottom3
+go-manga.com##.center_gomanga
+www.go-manga.com##.center_gomanga
+go-manga.com##.center_gomangasolo
+www.go-manga.com##.center_gomangasolo
+go-manga.com##.floating_content
+www.go-manga.com##.floating_content
+go-manga.com##.sticky-bottom-inside
+www.go-manga.com##.sticky-bottom-inside
+go-manga.com##.sticky-bottom2-inside
+www.go-manga.com##.sticky-bottom2-inside
+go-manga.com##.sticky-bottom3-inside
+www.go-manga.com##.sticky-bottom3-inside
+go-manga.com##.sticky-close
+www.go-manga.com##.sticky-close
+go-manga.com##a[href^="/link_to.php?url="]
+www.go-manga.com##a[href^="/link_to.php?url="]
+go-manga.com##img[src*="manga728x400v2.gif"]
+www.go-manga.com##img[src*="manga728x400v2.gif"]
+go-manga.com##img[src*="mangav2.gif"]
+www.go-manga.com##img[src*="mangav2.gif"]
+
