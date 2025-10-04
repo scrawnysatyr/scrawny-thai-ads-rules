@@ -1,15 +1,42 @@
 ! Title: Scrawny's Auto-gen Thai Filters
 ! Description: Auto-gen Thai Filters
-! Version: 2025-10-01T12:46:51+07:00
-! Last modified: 2025-10-01T12:46:51+07:00
+! Version: 2025-10-04T12:13:06+07:00
+! Last modified: 2025-10-04T12:13:06+07:00
 ! Expires: 1 days
 ! Homepage: https://github.com/scrawnysatyr/scrawny-thai-ads-rules/
 
-# All exports at 2025-10-01 12:46:51+0700
+# All exports at 2025-10-04 12:13:06+0700
+
+
+#### oremanga.net_export.txt ####
+# Export for oremanga.net at 2025-10-04 12:13:06+0700
+
+# External image-link destinations (unique):
+https://8xbet-vvip.cc/
+https://aff.redkong89.cc?ref=kong31708791
+https://bit.ly/OLEOREV1
+https://cutt.ly/Sexy_oremanga
+https://fun88-th.co/
+https://lionth.online/baccarat
+https://soccerweblink.com/5YXDWK
+https://soccerweblink.com/6yl6KA
+https://soccerweblink.com/71BnU6
+https://soccerweblink.com/V0IuMY
+https://soccerweblink.com/cC6wcp
+https://soccerweblink.com/mIMeEd
+https://soccerweblink.com/zJoigt
+https://theclarendonarms.com/
+https://www.apporbit.com
+
+# Redirectors (*.php?* with URL params):
+https://bit.ly/OLEOREV1
+https://cutt.ly/Sexy_oremanga
+
+# Cosmetic rules (scoped to this domain):
 
 
 #### go-manga.com_export.txt ####
-# Export for go-manga.com at 2025-10-01 12:46:51+0700
+# Export for go-manga.com at 2025-10-04 12:13:06+0700
 
 # External image-link destinations (unique):
 https://4x4xbet.com
@@ -37,6 +64,7 @@ https://cuafc.org
 https://cutt.ly/ArVilV0p
 https://endevis.com
 https://fox888-login.net
+https://fundphoenix.org
 https://gizmodo.uol.com.br/à¸ªà¸¥à¹à¸­à¸à¹à¸à¸-2025
 https://gizmodo.uol.com.br/สล็อตแตก-2025
 https://hengjing168.guru
@@ -50,6 +78,7 @@ https://myfinancialops.org
 https://nexobet44.com
 https://pawsga.org
 https://pgjoker69h.com
+https://pgjoker69i.com
 https://pigbet.net
 https://pigslot.co
 https://pinkland.net
@@ -79,6 +108,7 @@ https://www.misterchimi.com
 https://www.thewydown.com
 https://www.ufabet.cn.com
 https://www.ufasexygame10.com
+https://www.ufasexygame11.com
 
 # Cosmetic rules (scoped to this domain):
 go-manga.com###sticky-bottom
