@@ -1,0 +1,64 @@
+! Title: ScrawnyFilter Custom Adblock List
+! Format: uBlock Origin / AdGuard / Brave compatible
+! Order: Sticky/Floating Banners placed at TOPMOST of each domain section
+! -------------------------------------------------------------
+
+! ==================== [ up-manga.com ] ====================
+! --- Date: 2026-09-23 ---
+up-manga.com##div.sticky-bottom-inside ! Added at: 2026-09-23 14:03:06
+up-manga.com##div.sticky-bottom2-inside ! Added at: 2026-09-23 14:03:06
+up-manga.com##div.sticky-bottom3-inside ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="up-manga.com"] ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="ibit.ly/sexy365bet"] ! Added at: 2026-09-23 14:03:06
+||ibit.ly^ ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="ibit.ly/mahagame66"] ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="ibit.ly/lalika168"] ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="ibit.ly/ufanance"] ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="ibit.ly/ufazeed"] ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="ibit.ly/hydra88"] ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="ibit.ly/lockdown168"] ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="ibit.ly/kingdom66"] ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="t.ly/pgk44"] ! Added at: 2026-09-23 14:03:06
+||t.ly^ ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="ibit.ly/pgw44"] ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="t.ly/go-manga"] ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="screely.com"] ! Added at: 2026-09-23 14:03:06
+||screely.com^ ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="tinyurl.com/52EC8FED"] ! Added at: 2026-09-23 14:03:06
+||tinyurl.com^ ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="theweekendjaunts.com"] ! Added at: 2026-09-23 14:03:06
+||theweekendjaunts.com^ ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="mabelsbbq.com"] ! Added at: 2026-09-23 14:03:06
+||mabelsbbq.com^ ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="happylukepromos.com/register"] ! Added at: 2026-09-23 14:03:06
+||happylukepromos.com^ ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="88livecasinohouse.com/register"] ! Added at: 2026-09-23 14:03:06
+||88livecasinohouse.com^ ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="cutt.ly/PiGSL"] ! Added at: 2026-09-23 14:03:06
+||cutt.ly^ ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="cutt.ly/BFK168"] ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="t.ly/gomangalk"] ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="m.miracle55.net/register"] ! Added at: 2026-09-23 14:03:06
+||m.miracle55.net^ ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="8x8win.tech"] ! Added at: 2026-09-23 14:03:06
+||8x8win.tech^ ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="kamo-99s.com"] ! Added at: 2026-09-23 14:03:06
+||kamo-99s.com^ ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="funky99.biz"] ! Added at: 2026-09-23 14:03:06
+||funky99.biz^ ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="crypto-thb.com"] ! Added at: 2026-09-23 14:03:06
+||crypto-thb.com^ ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="goldenbrownbakery.com"] ! Added at: 2026-09-23 14:03:06
+||goldenbrownbakery.com^ ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="t.ly/Master_F16"] ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="medyumseyfullahhoca.com"] ! Added at: 2026-09-23 14:03:06
+||medyumseyfullahhoca.com^ ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="tnfish.org"] ! Added at: 2026-09-23 14:03:06
+||tnfish.org^ ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="ibit.ly/sagame1688"] ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="ibit.ly/sexygame1688"] ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="xn--365-1kl1e3c8a5a9q.fan/register"] ! Added at: 2026-09-23 14:03:06
+||xn--365-1kl1e3c8a5a9q.fan^ ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="ibit.ly/ufafat"] ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="ibit.ly/panama888"] ! Added at: 2026-09-23 14:03:06
+up-manga.com##a[href*="ibit.ly/lotto77"] ! Added at: 2026-09-23 14:03:06
