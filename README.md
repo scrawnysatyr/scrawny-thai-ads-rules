@@ -3,7 +3,7 @@
 > **Thai Adblock Filterlist** — รายการกฎสำหรับบล็อกโฆษณาไทย แบนเนอร์เว็บพนัน ป้ายลอยติดขอบจอ (Sticky Banner) และลิงก์ย่อครอบลิงก์ (Shortlinks/Redirects) บนเว็บอ่านการ์ตูน มังงะ ดูอนิเมะ และเว็บดูหนัง รองรับ **uBlock Origin**, **AdGuard**, และ **Brave Shields** อัปเดตอัตโนมัติ
 
 ![Adblock](https://img.shields.io/badge/Adblock-uBlock%20%7C%20AdGuard%20%7C%20Brave-green?style=flat-square)
-![Updated](https://img.shields.io/badge/Update-Every%2012%20Hours-blue?style=flat-square)
+![Updated](https://img.shields.io/badge/Update-Every%2024%20Hours-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-orange?style=flat-square)
 
 ---
