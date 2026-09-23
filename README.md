@@ -6,22 +6,9 @@
 
 ---
 
-## ⚡ คลิกเดียวเพื่อติดตั้ง (1-Click Subscribe)
+## 🌐 ลิงก์ Raw Filterlist (สำหรับนำไป Subscribe)
 
-กดปุ่มด้านล่างเพื่อเพิ่มตัวกรองเข้า Adblocker ของคุณทันที:
-
-| โปรแกรม / แอปพลิเคชัน | ปุ่มติดตั้งด่วน (คลิกเดียว) |
-| :--- | :--- |
-| **uBlock Origin / Brave / ABP** | [![Subscribe with uBlock](https://img.shields.io/badge/Subscribe%20to-uBlock%20Origin-800000?style=for-the-badge&logo=ublockorigin&logoColor=white)](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2Fscrawnysatyr%2Fscrawny-thai-ads-rules%2Fmain%2Fadblock_filterlist.txt&title=Scrawny%20Thai%20Ads) |
-| **AdGuard (Android App & PC)** | [![Subscribe with AdGuard](https://img.shields.io/badge/Subscribe%20to-AdGuard-68bc71?style=for-the-badge&logo=adguard&logoColor=white)](adguard:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2Fscrawnysatyr%2Fscrawny-thai-ads-rules%2Fmain%2Fadblock_filterlist.txt&title=Scrawny%20Thai%20Ads) |
-
-> 💡 **สำหรับผู้ใช้ Android**: ถ้าติดตั้งแอป AdGuard สำหรับ Android ไว้ การคลิกปุ่ม **Subscribe to AdGuard** จะเปิดแอป AdGuard และนำเข้ากฎให้ทันที
-
----
-
-## 🌐 ลิงก์ Raw Filterlist (สำหรับนำไปใส่ด้วยตนเอง)
-
-หากเบราว์เซอร์ไม่รองรับปุ่มคลิกเดียว สามารถคัดลอกลิงก์ด้านล่างไปใส่เองได้:
+คัดลอกลิงก์ด้านล่างนี้ไปใส่ในโปรแกรม Adblocker ของคุณ:
 
 ```text
 https://raw.githubusercontent.com/scrawnysatyr/scrawny-thai-ads-rules/main/adblock_filterlist.txt
@@ -29,25 +16,46 @@ https://raw.githubusercontent.com/scrawnysatyr/scrawny-thai-ads-rules/main/adblo
 
 ---
 
-## 📖 วิธีติดตั้งด้วยตนเอง (Manual Setup)
+## 📖 วิธีติดตั้งและใช้งานใน Adblocker ยอดนิยม
 
-### 1. 🟥 uBlock Origin
-1. คลิกไอคอน **uBlock Origin** ในเบราว์เซอร์ -> คลิกไอคอนรูป **ฟันเฟือง (Open dashboard)**
-2. ไปที่แถบ **"Filter lists"** ด้านบน -> เลื่อนลงมาล่างสุด
-3. ติ๊กถูกที่ช่อง **"Import..."**
-4. วางลิงก์ Raw ลงในช่องข้อความ แล้วกดปุ่มสีส้ม **"Apply changes"**
+### 1. 🟥 uBlock Origin (แนะนำที่สุด ⭐)
+1. คลิกที่ไอคอน **uBlock Origin** ในเบราว์เซอร์ -> คลิกไอคอนรูป **ฟันเฟือง (Open the dashboard)**
+2. ไปที่แถบ **"Filter lists" (รายการตัวกรอง)** ด้านบน
+3. เลื่อนลงมาล่างสุดที่หัวข้อ **"Custom" (กำหนดเอง)**
+4. ติ๊กถูกที่ช่อง **"Import..." (นำเข้า...)**
+5. วางลิงก์ Raw ลงในช่องข้อความ:
+   ```text
+   https://raw.githubusercontent.com/scrawnysatyr/scrawny-thai-ads-rules/main/adblock_filterlist.txt
+   ```
+6. กดปุ่มสีส้ม **"Apply changes" (นำการเปลี่ยนแปลงไปใช้)** ด้านบน
+
+---
 
 ### 2. 🟩 AdGuard (Extension & Desktop)
-1. เปิด **AdGuard Settings** -> ไปที่เมนู **"Filters"**
-2. เลือก **"Custom"** -> คลิกปุ่ม **"Add custom filter"**
-3. วางลิงก์ Raw ตั้งชื่อว่า `Scrawny Thai Ads` แล้วกด **Next / Add**
+1. เปิด **AdGuard Settings** (การตั้งค่า)
+2. ไปที่เมนู **"Filters" (ตัวกรอง)** ด้านซ้าย
+3. เลือก **"Custom" (กำหนดเอง)** -> คลิกปุ่ม **"Add custom filter" (เพิ่มตัวกรองที่กำหนดเอง)**
+4. ในช่อง URL ให้วางลิงก์:
+   ```text
+   https://raw.githubusercontent.com/scrawnysatyr/scrawny-thai-ads-rules/main/adblock_filterlist.txt
+   ```
+5. ตั้งชื่อ เช่น `Scrawny Thai Ads` แล้วกด **Next / Add**
+
+---
 
 ### 3. 🦁 Brave Browser (Brave Shields)
-1. พิมพ์ที่แถบ URL: `brave://settings/shields/filters` แล้วกด Enter
-2. เลื่อนลงมาล่างสุดที่หัวข้อ **"Add custom filter lists"**
-3. วางลิงก์ Raw แล้วกดปุ่ม **"Add"**
+1. พิมพ์ที่แถบ URL ของเบราว์เซอร์: `brave://settings/shields/filters` แล้วกด Enter
+2. เลื่อนลงมาล่างสุดที่หัวข้อ **"Add custom filter lists" (เพิ่มรายการตัวกรองที่กำหนดเอง)**
+3. วางลิงก์ Raw:
+   ```text
+   https://raw.githubusercontent.com/scrawnysatyr/scrawny-thai-ads-rules/main/adblock_filterlist.txt
+   ```
+4. กดปุ่ม **"Add" (เพิ่ม)**
+
+---
 
 ### 4. 🔴 Adblock Plus (ABP)
-1. เปิดการตั้งค่า **Adblock Plus Settings** -> แถบ **"Advanced"**
-2. เลื่อนลงมาที่หัวข้อ **"Filter lists"** -> คลิก **"Add a new filter list"**
-3. วางลิงก์ Raw แล้วกด **"Add a filter list"**
+1. เปิดการตั้งค่า **Adblock Plus Settings**
+2. ไปที่แถบ **"Advanced" (ขั้นสูง)**
+3. เลื่อนลงมาที่หัวข้อ **"Filter lists"** -> คลิก **"Add a new filter list"**
+4. วางลิงก์ Raw แล้วกด **"Add a filter list"**
