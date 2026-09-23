@@ -1,9 +1,7 @@
 # 🛡️ Scrawny Thai Ads Filterlist
 
-> รวมรายการกฎ Adblocker สำหรับบล็อกแบนเนอร์โฆษณา, ป้ายลอย (Sticky Banner), เว็บพนัน, และลิงก์ย่อครอบลิงก์ (Shortlink Redirects) บนเว็บอ่านการ์ตูน/มังงะและสตรีมมิ่งไทย อัปเดตอัตโนมัติทุก 12 ชั่วโมง
+> รวมรายการกฎ Adblocker สำหรับบล็อกแบนเนอร์โฆษณา, ป้ายลอย (Sticky Banner), เว็บพนัน, และลิงก์ย่อครอบลิงก์ (Shortlink Redirects) บนเว็บอ่านการ์ตูน/มังงะและสตรีมมิ่งไทย อัปเดตอัตโนมัติ
 
-[![Auto Scan & Push](https://github.com/scrawnysatyr/scrawny-thai-ads-auto/actions/workflows/update_filterlist.yml/badge.svg)](https://github.com/scrawnysatyr/scrawny-thai-ads-auto/actions)
-![GitHub last commit](https://img.shields.io/github/last-commit/scrawnysatyr/scrawny-thai-ads-rules?color=blue)
 ![Format](https://img.shields.io/badge/Format-uBlock%20%7C%20AdGuard%20%7C%20Brave-green)
 
 ---
@@ -61,12 +59,3 @@ https://raw.githubusercontent.com/scrawnysatyr/scrawny-thai-ads-rules/main/adblo
 2. ไปที่แถบ **"Advanced" (ขั้นสูง)**
 3. เลื่อนลงมาที่หัวข้อ **"Filter lists"** -> คลิก **"Add a new filter list"**
 4. วางลิงก์ Raw แล้วกด **"Add a filter list"**
-
----
-
-## ✨ จุดเด่นของ Filterlist นี้
-- 📌 **Sticky First**: จัดลำดับกฎบล็อกป้ายลอย/แถบโฆษณาติดขอบจอ (Floating & Sticky Banners) ไว้บนสุดของแต่ละโดเมนเสมอ ไม่ให้บังเนื้อหา
-- 🎯 **Target URL-Based Hiding**: ลบรูปภาพแบนเนอร์และกล่องโฆษณาตามปลายทางของลิงก์ ไม่ทิ้งช่องว่างหรือรูปกากบาทเสีย
-- 🔗 **Shortlink & Redirect Resolution**: สแกนตรวจจับลิงก์ย่อภายนอก (`ibit.ly`, `t.ly`, `cutt.ly`, etc.) และระบบ Redirect ภายในเว็บที่ส่งต่อไปยังเว็บพนัน
-- 📅 **Grouped by Domain & Date**: แยกหมวดหมู่ตามโดเมนและวันที่ตรวจพบอย่างเป็นระเบียบ
-- 🤖 **Auto-Updated**: รันสแกนและอัปเดตกฎใหม่ทุก 12 ชั่วโมงผ่าน [scrawny-thai-ads-auto](https://github.com/scrawnysatyr/scrawny-thai-ads-auto)
