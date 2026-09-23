@@ -5,10 +5,9 @@
 
 ! ==================== [ up-manga.com ] ====================
 ! --- Date: 2026-09-23 ---
-up-manga.com##div.sticky-bottom-inside
-up-manga.com##div.sticky-bottom2-inside
-up-manga.com##div.sticky-bottom3-inside
-up-manga.com##a[href*="up-manga.com"]
+up-manga.com###sticky-bottom
+up-manga.com###sticky-bottom2
+up-manga.com###sticky-bottom3
 up-manga.com##a[href*="ibit.ly/sexy365bet"]
 ||ibit.ly^
 up-manga.com##a[href*="ibit.ly/mahagame66"]
