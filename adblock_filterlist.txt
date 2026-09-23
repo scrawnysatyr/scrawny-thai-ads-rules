@@ -161,6 +161,15 @@ go-manga.com##a[href*="ibit.ly/lotto432"]
 go-manga.com##a[href*="ibit.ly/brazil999"]
 go-manga.com##a[href*="ibit.ly/ufazeed"]
 
+! ==================== [ madoo-manga.com ] ====================
+! --- Date: 2026-09-23 ---
+madoo-manga.com##a[href*="lin.ee/bfkzeOi"]
+||lin.ee^
+madoo-manga.com##a[href*="send"]
+||send^
+madoo-manga.com##iframe[src*="facebook.com"]
+||facebook.com^
+
 ! ==================== [ nano-manga.com ] ====================
 ! --- Date: 2026-09-23 ---
 nano-manga.com###sticky-ads-bottom
@@ -234,6 +243,111 @@ oremanga.net###cf-cloudflare-status
 oremanga.net##a[href*="developers.cloudflare.com"]
 oremanga.net##div.w-1/2.md:w-full
 ||developers.cloudflare.com^
+
+! ==================== [ ped-manga.com ] ====================
+! --- Date: 2026-09-23 ---
+ped-manga.com##a[href*="rose-manga.com"]
+||rose-manga.com^
+ped-manga.com##a[href*="ped-doujin.com"]
+||ped-doujin.com^
+ped-manga.com##a[href*="god-manga.com"]
+||god-manga.com^
+ped-manga.com##a[href*="xn--83co4f.com/category/onlyfans"]
+||xn--83co4f.com^
+ped-manga.com##a[href*="t.ly/sa666"]
+||t.ly^
+ped-manga.com##a[href*="t.ly/ufanance"]
+ped-manga.com##a[href*="t.ly/ss6666"]
+ped-manga.com##a[href*="t.ly/lockdown1688"]
+ped-manga.com##a[href*="t.ly/lotto432"]
+ped-manga.com##a[href*="t.ly/ufac4"]
+ped-manga.com##a[href*="t.ly/panama8888"]
+ped-manga.com##a[href*="t.ly/ufa1919"]
+ped-manga.com##a[href*="t.ly/sexy6666"]
+ped-manga.com##a[href*="t.ly/vip168saa"]
+ped-manga.com##a[href*="t.ly/sexy1688"]
+ped-manga.com##a[href*="t.ly/1688sagame"]
+ped-manga.com##a[href*="t.ly/juad8888"]
+ped-manga.com##a[href*="t.ly/lotto7777"]
+ped-manga.com##a[href*="t.ly/ufafat"]
+ped-manga.com##a[href*="t.ly/hydra8888"]
+ped-manga.com##a[href*="blogstreet.com"]
+||blogstreet.com^
+ped-manga.com##a[href*="calloflove.net"]
+||calloflove.net^
+ped-manga.com##a[href*="ufabetbnb.info"]
+||ufabetbnb.info^
+ped-manga.com##a[href*="adventuretravelfam.com/menu"]
+||adventuretravelfam.com^
+ped-manga.com##a[href*="แทงบอลโลกออนไลน์.space"]
+||แทงบอลโลกออนไลน์.space^
+ped-manga.com##a[href*="ibit.ly/pgw44"]
+||ibit.ly^
+ped-manga.com##a[href*="pgs2.net"]
+||pgs2.net^
+ped-manga.com##a[href*="blincinnovation.com"]
+||blincinnovation.com^
+ped-manga.com##a[href*="t.ly/pgk44"]
+ped-manga.com##a[href*="football-navi.com"]
+||football-navi.com^
+ped-manga.com##a[href*="philamirror.info"]
+||philamirror.info^
+ped-manga.com##a[href*="xn--365-1kl1e3c8a5a9q.fan/register"]
+||xn--365-1kl1e3c8a5a9q.fan^
+ped-manga.com##a[href*="lobby.ufavip777.services"]
+||lobby.ufavip777.services^
+ped-manga.com##a[href*="funhorsebackriding.com"]
+||funhorsebackriding.com^
+ped-manga.com##a[href*="celacinternational.org/contact"]
+||celacinternational.org^
+ped-manga.com##a[href*="midcountyjournal.com"]
+||midcountyjournal.com^
+ped-manga.com##a[href*="pussy888fun.tv"]
+||pussy888fun.tv^
+ped-manga.com##a[href*="pongalfestival.org/contact-us"]
+||pongalfestival.org^
+ped-manga.com##a[href*="geographia.com"]
+||geographia.com^
+ped-manga.com##a[href*="persun.fr"]
+||persun.fr^
+ped-manga.com##a[href*="livefootballworldcup.com"]
+||livefootballworldcup.com^
+ped-manga.com##a[href*="edisonnation.com"]
+||edisonnation.com^
+ped-manga.com##a[href*="boldride.com"]
+||boldride.com^
+ped-manga.com##a[href*="binghammedicalcenter.com"]
+||binghammedicalcenter.com^
+ped-manga.com##a[href*="al-shia.com"]
+||al-shia.com^
+ped-manga.com##a[href*="888paruay.com/register"]
+||888paruay.com^
+ped-manga.com##a[href*="movie2freehd.com"]
+||movie2freehd.com^
+ped-manga.com##a[href*="es6-features.org"]
+||es6-features.org^
+ped-manga.com##a[href*="feetluv.com"]
+||feetluv.com^
+ped-manga.com##a[href*="javhdguru.me"]
+||javhdguru.me^
+ped-manga.com##a[href*="nung321.com"]
+||nung321.com^
+ped-manga.com##a[href*="xn--72cas2cj6a4hf4b5a8oc.com"]
+||xn--72cas2cj6a4hf4b5a8oc.com^
+ped-manga.com##a[href*="discord.gg/Q32j4npYJm"]
+||discord.gg^
+ped-manga.com##a[href*="t.ly/brazil999"]
+ped-manga.com##a[href*="t.ly/ufazeed"]
+ped-manga.com##a[href*="t.ly/kingdom66"]
+
+! ==================== [ romance-manga.com ] ====================
+! --- Date: 2026-09-23 ---
+romance-manga.com##a[href*="play.sa-lk.com/signup"]
+||play.sa-lk.com^
+romance-manga.com##a[href*="livefootballworldcup.com"]
+||livefootballworldcup.com^
+romance-manga.com##a[href*="series-168.com"]
+||series-168.com^
 
 ! ==================== [ up-manga.com ] ====================
 ! --- Date: 2026-09-23 ---
