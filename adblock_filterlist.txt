@@ -161,6 +161,45 @@ go-manga.com##a[href*="ibit.ly/lotto432"]
 go-manga.com##a[href*="ibit.ly/brazil999"]
 go-manga.com##a[href*="ibit.ly/ufazeed"]
 
+! ==================== [ nano-manga.com ] ====================
+! --- Date: 2026-09-23 ---
+nano-manga.com###sticky-ads-bottom
+nano-manga.com###sticky-ads-bottom2
+nano-manga.com###sticky-ads-bottom3
+nano-manga.com##div.c-sub-header-nav.with-border
+nano-manga.com##a[href*="ibit.ly/sexy365bet"]
+||ibit.ly^
+nano-manga.com##a[href*="ibit.ly/mahagame66"]
+nano-manga.com##a[href*="ibit.ly/lalika168"]
+nano-manga.com##a[href*="ibit.ly/ufafat"]
+nano-manga.com##a[href*="ibit.ly/ufac4"]
+nano-manga.com##a[href*="ibit.ly/lockdown168"]
+nano-manga.com##a[href*="ibit.ly/lotto432"]
+nano-manga.com##a[href*="ibit.ly/vip168sa"]
+nano-manga.com##a[href*="ibit.ly/kingdom66"]
+nano-manga.com##a[href*="ibit.ly/juad88"]
+nano-manga.com##a[href*="ibit.ly/ufazeed"]
+nano-manga.com##a[href*="ibit.ly/hydra88"]
+nano-manga.com##a[href*="goldenbrownbakery.com"]
+||goldenbrownbakery.com^
+nano-manga.com##a[href*="crypto-thb.com"]
+||crypto-thb.com^
+nano-manga.com##a[href*="medyumseyfullahhoca.com"]
+||medyumseyfullahhoca.com^
+nano-manga.com##a[href*="lesliecheung.cc"]
+||lesliecheung.cc^
+nano-manga.com##a[href*="kamo-99s.com"]
+||kamo-99s.com^
+nano-manga.com##a[href*="funky99.biz"]
+||funky99.biz^
+nano-manga.com##a[href*="xn--365-1kl1e3c8a5a9q.fan/register"]
+||xn--365-1kl1e3c8a5a9q.fan^
+nano-manga.com##a[href*="ibit.ly/sagame1688"]
+nano-manga.com##a[href*="ibit.ly/sexygame1688"]
+nano-manga.com##a[href*="ibit.ly/ufanance"]
+nano-manga.com##a[href*="ibit.ly/brazil999"]
+nano-manga.com##a[href*="ibit.ly/panama888"]
+
 ! ==================== [ oremanga.net ] ====================
 ! --- Date: 2026-09-23 ---
 oremanga.net##a[href*="ibit.ly/sexy365bet"]
@@ -189,6 +228,12 @@ oremanga.net##a[href*="arapahoecafe.com/dinner"]
 ||arapahoecafe.com^
 oremanga.net##a[href*="8xbet-vvip.co.com"]
 ||8xbet-vvip.co.com^
+oremanga.net##a[href*="cloudflare.com/5xx-error-landing"]
+||cloudflare.com^
+oremanga.net###cf-cloudflare-status
+oremanga.net##a[href*="developers.cloudflare.com"]
+oremanga.net##div.w-1/2.md:w-full
+||developers.cloudflare.com^
 
 ! ==================== [ up-manga.com ] ====================
 ! --- Date: 2026-09-23 ---
