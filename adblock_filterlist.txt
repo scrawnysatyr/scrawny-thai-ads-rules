@@ -3,6 +3,89 @@
 ! Order: Sticky/Floating Banners placed at TOPMOST of each domain section
 ! -------------------------------------------------------------
 
+! ==================== [ dark-manga.com ] ====================
+! --- Date: 2026-09-23 ---
+dark-manga.com###sticky-bottom
+dark-manga.com###sticky-bottom2
+dark-manga.com##a[href*="ibit.ly/sexy365bet"]
+||ibit.ly^
+dark-manga.com##a[href*="ibit.ly/mahagame66"]
+dark-manga.com##a[href*="ibit.ly/vip168sa"]
+dark-manga.com##a[href*="ibit.ly/sagame1688"]
+dark-manga.com##a[href*="ibit.ly/ufabomb"]
+dark-manga.com##a[href*="ibit.ly/panama888"]
+dark-manga.com##a[href*="ibit.ly/huayhit168"]
+dark-manga.com##a[href*="ibit.ly/juad88"]
+dark-manga.com##a[href*="t.ly/pgk44"]
+||t.ly^
+dark-manga.com##a[href*="ibit.ly/pgw44"]
+dark-manga.com##a[href*="kamo-99s.com"]
+||kamo-99s.com^
+dark-manga.com##a[href*="rinasnorthend.com"]
+||rinasnorthend.com^
+dark-manga.com##a[href*="crypto-thb.com"]
+||crypto-thb.com^
+dark-manga.com##a[href*="mabelsbbq.com"]
+||mabelsbbq.com^
+dark-manga.com##a[href*="theanalyticon.com"]
+||theanalyticon.com^
+dark-manga.com##a[href*="usefulpcguide.com"]
+||usefulpcguide.com^
+dark-manga.com##a[href*="lesliecheung.cc"]
+||lesliecheung.cc^
+dark-manga.com##a[href*="tinyurl.com/B5F8DA70"]
+||tinyurl.com^
+dark-manga.com##a[href*="xn--365-1kl1e3c8a5a9q.fan/register"]
+||xn--365-1kl1e3c8a5a9q.fan^
+dark-manga.com##a[href*="m.miracle55.net/register"]
+||m.miracle55.net^
+dark-manga.com##a[href*="มั่นคง88.cc"]
+||มั่นคง88.cc^
+dark-manga.com##a[href*="ambking1234.dev"]
+||ambking1234.dev^
+dark-manga.com##a[href*="member.popsloth.live/register"]
+||member.popsloth.live^
+dark-manga.com##a[href*="ultimate789.online"]
+||ultimate789.online^
+dark-manga.com##a[href*="urlshort.asia/Cbmhq"]
+||urlshort.asia^
+dark-manga.com##a[href*="funky99.biz"]
+||funky99.biz^
+dark-manga.com##a[href*="member.popza24z.pro/register"]
+||member.popza24z.pro^
+dark-manga.com##a[href*="ibit.ly/sbogool"]
+dark-manga.com##a[href*="ibit.ly/slotgame66"]
+dark-manga.com##a[href*="ibit.ly/hydra88"]
+
+! ==================== [ oremanga.net ] ====================
+! --- Date: 2026-09-23 ---
+oremanga.net##a[href*="ibit.ly/sexy365bet"]
+||ibit.ly^
+oremanga.net##a[href*="ibit.ly/boston777"]
+oremanga.net##a[href*="ibit.ly/ufac4"]
+oremanga.net##a[href*="ibit.ly/lotto432"]
+oremanga.net##a[href*="cutt.ly/Sexy_oremanga"]
+||cutt.ly^
+oremanga.net##a[href*="8xbet-vvip.info"]
+||8xbet-vvip.info^
+oremanga.net##a[href*="xn--365-1kl1e3c8a5a9q.fan/register"]
+||xn--365-1kl1e3c8a5a9q.fan^
+oremanga.net##a[href*="wy88.bet/th-th/register"]
+||wy88.bet^
+oremanga.net##a[href*="the88top.com/register"]
+||the88top.com^
+oremanga.net##a[href*="ibit.ly/lockdown168"]
+oremanga.net##a[href*="ibit.ly/sagame1688"]
+oremanga.net##a[href*="ibit.ly/sexygame1688"]
+oremanga.net##a[href*="sempower.com"]
+||sempower.com^
+oremanga.net##a[href*="cityclubapp.com"]
+||cityclubapp.com^
+oremanga.net##a[href*="arapahoecafe.com/dinner"]
+||arapahoecafe.com^
+oremanga.net##a[href*="8xbet-vvip.co.com"]
+||8xbet-vvip.co.com^
+
 ! ==================== [ up-manga.com ] ====================
 ! --- Date: 2026-09-23 ---
 up-manga.com###sticky-bottom
