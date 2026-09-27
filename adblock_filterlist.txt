@@ -161,6 +161,10 @@ go-manga.com##a[href*="ibit.ly/lotto432"]
 go-manga.com##a[href*="ibit.ly/brazil999"]
 go-manga.com##a[href*="ibit.ly/ufazeed"]
 
+! --- Date: 2026-09-27 ---
+go-manga.com##a[href*="funky99.biz"]
+||funky99.biz^
+
 ! ==================== [ madoo-manga.com ] ====================
 ! --- Date: 2026-09-23 ---
 madoo-manga.com##a[href*="lin.ee/bfkzeOi"]
@@ -243,6 +247,13 @@ oremanga.net###cf-cloudflare-status
 oremanga.net##a[href*="developers.cloudflare.com"]
 oremanga.net##div.w-1/2.md:w-full
 ||developers.cloudflare.com^
+
+! --- Date: 2026-09-27 ---
+oremanga.net##a[href*="theclarendonarms.com"]
+||theclarendonarms.com^
+oremanga.net##a[href*="finnwer.com"]
+||finnwer.com^
+oremanga.net##a[href*="the88top.com/th-th/home"]
 
 ! ==================== [ ped-manga.com ] ====================
 ! --- Date: 2026-09-23 ---
