@@ -57,6 +57,12 @@ dark-manga.com##a[href*="ibit.ly/sbogool"]
 dark-manga.com##a[href*="ibit.ly/slotgame66"]
 dark-manga.com##a[href*="ibit.ly/hydra88"]
 
+! --- Date: 2026-10-04 ---
+dark-manga.com##a[href*="edhdeportes.com"]
+||edhdeportes.com^
+dark-manga.com##a[href*="888paruay.com/register"]
+||888paruay.com^
+
 ! ==================== [ fin-manga.com ] ====================
 ! --- Date: 2026-09-23 ---
 fin-manga.com###sticky-bottom
@@ -165,10 +171,20 @@ go-manga.com##a[href*="ibit.ly/ufazeed"]
 go-manga.com##a[href*="funky99.biz"]
 ||funky99.biz^
 
+! --- Date: 2026-10-04 ---
+go-manga.com##a[href*="ambking1234.dev"]
+||ambking1234.dev^
+go-manga.com##a[href*="888paruay.com/register"]
+||888paruay.com^
+
 ! ==================== [ madoo-manga.com ] ====================
 ! --- Date: 2026-09-23 ---
 madoo-manga.com##a[href*="lin.ee/bfkzeOi"]
 ||lin.ee^
+madoo-manga.com##a[href*="send"]
+||send^
+madoo-manga.com##iframe[src*="facebook.com"]
+||facebook.com^
 
 ! ==================== [ nano-manga.com ] ====================
 ! --- Date: 2026-09-23 ---
@@ -414,3 +430,9 @@ up-manga.com##a[href*="xn--365-1kl1e3c8a5a9q.fan/register"]
 up-manga.com##a[href*="ibit.ly/ufafat"]
 up-manga.com##a[href*="ibit.ly/panama888"]
 up-manga.com##a[href*="ibit.ly/lotto77"]
+
+! --- Date: 2026-10-04 ---
+up-manga.com##a[href*="shivohamyogaschool.com"]
+||shivohamyogaschool.com^
+up-manga.com##a[href*="888paruay.com/register"]
+||888paruay.com^
