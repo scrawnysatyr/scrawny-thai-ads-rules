@@ -183,8 +183,6 @@ madoo-manga.com##a[href*="lin.ee/bfkzeOi"]
 ||lin.ee^
 madoo-manga.com##a[href*="send"]
 ||send^
-madoo-manga.com##iframe[src*="facebook.com"]
-||facebook.com^
 
 ! ==================== [ nano-manga.com ] ====================
 ! --- Date: 2026-09-23 ---
@@ -436,3 +434,7 @@ up-manga.com##a[href*="shivohamyogaschool.com"]
 ||shivohamyogaschool.com^
 up-manga.com##a[href*="888paruay.com/register"]
 ||888paruay.com^
+
+! --- Date: 2026-10-05 ---
+up-manga.com##a[href*="jin888.asia"]
+||jin888.asia^
