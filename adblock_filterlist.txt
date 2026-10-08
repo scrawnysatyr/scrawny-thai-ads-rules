@@ -98,6 +98,10 @@ fin-manga.com##a[href*="ibit.ly/hydra88"]
 fin-manga.com##a[href*="discord.gg/bhN4S2satG"]
 ||discord.gg^
 
+! --- Date: 2026-10-08 ---
+fin-manga.com##a[href*="jin888.asia"]
+||jin888.asia^
+
 ! ==================== [ go-manga.com ] ====================
 ! --- Date: 2026-09-23 ---
 go-manga.com###sticky-bottom
@@ -177,12 +181,43 @@ go-manga.com##a[href*="ambking1234.dev"]
 go-manga.com##a[href*="888paruay.com/register"]
 ||888paruay.com^
 
+! --- Date: 2026-10-08 ---
+go-manga.com##a[href*="jin888.asia"]
+||jin888.asia^
+
 ! ==================== [ madoo-manga.com ] ====================
 ! --- Date: 2026-09-23 ---
 madoo-manga.com##a[href*="lin.ee/bfkzeOi"]
 ||lin.ee^
 madoo-manga.com##a[href*="send"]
 ||send^
+
+! ==================== [ manga-lc.net ] ====================
+! --- Date: 2026-10-08 ---
+manga-lc.net##a[href*="888paruay.com/register"]
+||888paruay.com^
+manga-lc.net##a[href*="sports-media.org"]
+||sports-media.org^
+manga-lc.net##a[href*="al-shia.com"]
+||al-shia.com^
+manga-lc.net##a[href*="afghanistannewscenter.com"]
+||afghanistannewscenter.com^
+manga-lc.net##a[href*="ufabet1.de.com"]
+||ufabet1.de.com^
+manga-lc.net##a[href*="ibit.ly/pgw44"]
+||ibit.ly^
+manga-lc.net##a[href*="t.ly/pgk44"]
+||t.ly^
+manga-lc.net##a[href*="sclink.cc/sbo"]
+||sclink.cc^
+manga-lc.net##a[href*="cutly.art/tz2gp5"]
+||cutly.art^
+manga-lc.net##a[href*="kurotoon.com"]
+||kurotoon.com^
+manga-lc.net##a[href*="doujin-lc.com"]
+||doujin-lc.com^
+manga-lc.net##a[href*="doujinx.com"]
+||doujinx.com^
 
 ! ==================== [ nano-manga.com ] ====================
 ! --- Date: 2026-09-23 ---
@@ -222,6 +257,10 @@ nano-manga.com##a[href*="ibit.ly/sexygame1688"]
 nano-manga.com##a[href*="ibit.ly/ufanance"]
 nano-manga.com##a[href*="ibit.ly/brazil999"]
 nano-manga.com##a[href*="ibit.ly/panama888"]
+
+! --- Date: 2026-10-08 ---
+nano-manga.com##a[href*="jin888.asia"]
+||jin888.asia^
 
 ! ==================== [ oremanga.net ] ====================
 ! --- Date: 2026-09-23 ---
