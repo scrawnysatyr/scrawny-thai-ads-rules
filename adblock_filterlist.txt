@@ -191,6 +191,11 @@ go-manga.com##a[href*="888paruay.com/register"]
 go-manga.com##a[href*="jin888.asia"]
 ||jin888.asia^
 
+! --- Date: 2026-10-18 ---
+go-manga.com##a[href*="cutt.ly/PiGSL-go-manga"]
+go-manga.com##a[href*="cutt.ly/BFK168-go-manga"]
+go-manga.com##a[href*="cutt.ly/116LT-go-manga"]
+
 ! ==================== [ madoo-manga.com ] ====================
 ! --- Date: 2026-09-23 ---
 madoo-manga.com##a[href*="lin.ee/bfkzeOi"]
@@ -224,6 +229,11 @@ manga-lc.net##a[href*="doujin-lc.com"]
 ||doujin-lc.com^
 manga-lc.net##a[href*="doujinx.com"]
 ||doujinx.com^
+
+! --- Date: 2026-10-18 ---
+manga-lc.net##a[href*="ufadark5.com"]
+||ufadark5.com^
+manga-lc.net###ads_04
 
 ! ==================== [ nano-manga.com ] ====================
 ! --- Date: 2026-09-23 ---
