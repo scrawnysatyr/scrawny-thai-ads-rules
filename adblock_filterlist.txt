@@ -235,6 +235,10 @@ manga-lc.net##a[href*="ufadark5.com"]
 ||ufadark5.com^
 manga-lc.net###ads_04
 
+! --- Date: 2026-10-25 ---
+manga-lc.net##a[href*="quietside.com/quietside"]
+||quietside.com^
+
 ! ==================== [ nano-manga.com ] ====================
 ! --- Date: 2026-09-23 ---
 nano-manga.com###sticky-ads-bottom
@@ -419,6 +423,10 @@ ped-manga.com##a[href*="discord.gg/Q32j4npYJm"]
 ped-manga.com##a[href*="t.ly/brazil999"]
 ped-manga.com##a[href*="t.ly/ufazeed"]
 ped-manga.com##a[href*="t.ly/kingdom66"]
+
+! --- Date: 2026-10-25 ---
+ped-manga.com##a[href*="reffpa.com/L"]
+||reffpa.com^
 
 ! ==================== [ romance-manga.com ] ====================
 ! --- Date: 2026-09-23 ---
