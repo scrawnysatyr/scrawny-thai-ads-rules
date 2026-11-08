@@ -69,6 +69,15 @@ dark-manga.com##a[href*="jin888.asia"]
 dark-manga.com##a[href*="ambking99.wtf"]
 ||ambking99.wtf^
 
+! --- Date: 2026-11-08 ---
+dark-manga.com###sticky-bottom3
+dark-manga.com##a[href*="lottovipgo.com/master"]
+||lottovipgo.com^
+dark-manga.com##a[href*="4ubdqx.s.gy/dv0bfX"]
+||4ubdqx.s.gy^
+dark-manga.com##a[href*="befunplay567.com"]
+||befunplay567.com^
+
 ! ==================== [ fin-manga.com ] ====================
 ! --- Date: 2026-09-23 ---
 fin-manga.com###sticky-bottom
@@ -107,6 +116,14 @@ fin-manga.com##a[href*="discord.gg/bhN4S2satG"]
 ! --- Date: 2026-10-08 ---
 fin-manga.com##a[href*="jin888.asia"]
 ||jin888.asia^
+
+! --- Date: 2026-11-08 ---
+fin-manga.com##a[href*="cloudflare.com/5xx-error-landing"]
+||cloudflare.com^
+fin-manga.com###cf-cloudflare-status
+fin-manga.com##a[href*="developers.cloudflare.com"]
+fin-manga.com##div.w-1/2.md:w-full
+||developers.cloudflare.com^
 
 ! ==================== [ go-manga.com ] ====================
 ! --- Date: 2026-09-23 ---
@@ -195,6 +212,15 @@ go-manga.com##a[href*="jin888.asia"]
 go-manga.com##a[href*="cutt.ly/PiGSL-go-manga"]
 go-manga.com##a[href*="cutt.ly/BFK168-go-manga"]
 go-manga.com##a[href*="cutt.ly/116LT-go-manga"]
+
+! --- Date: 2026-11-08 ---
+go-manga.com##a[href*="4ubdqx.s.gy/iWeqiN"]
+||4ubdqx.s.gy^
+go-manga.com##a[href*="lottovipgo.com/master"]
+||lottovipgo.com^
+go-manga.com##a[href*="member.uutm789.com"]
+||member.uutm789.com^
+go-manga.com##a[href*="t.ly/Nato_Banner"]
 
 ! ==================== [ madoo-manga.com ] ====================
 ! --- Date: 2026-09-23 ---
@@ -287,6 +313,12 @@ nano-manga.com##a[href*="ibit.ly/panama888"]
 ! --- Date: 2026-10-08 ---
 nano-manga.com##a[href*="jin888.asia"]
 ||jin888.asia^
+
+! --- Date: 2026-11-08 ---
+nano-manga.com##a[href*="lottovipgo.com/master"]
+||lottovipgo.com^
+nano-manga.com##a[href*="4ubdqx.s.gy/IO7fEI"]
+||4ubdqx.s.gy^
 
 ! ==================== [ oremanga.net ] ====================
 ! --- Date: 2026-09-23 ---
@@ -520,3 +552,11 @@ up-manga.com##a[href*="jin888.asia"]
 up-manga.com##a[href*="cutt.ly/PiGSL-up-manga"]
 up-manga.com##a[href*="cutt.ly/BFK168-up-manga"]
 up-manga.com##a[href*="t.ly/gomangalk1"]
+
+! --- Date: 2026-11-08 ---
+up-manga.com##a[href*="lottovipgo.com/master"]
+||lottovipgo.com^
+up-manga.com##a[href*="4ubdqx.s.gy/ztQ4CX"]
+||4ubdqx.s.gy^
+up-manga.com##a[href*="befunplay567.com"]
+||befunplay567.com^
