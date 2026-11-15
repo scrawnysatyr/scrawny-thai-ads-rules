@@ -125,6 +125,12 @@ fin-manga.com##a[href*="developers.cloudflare.com"]
 fin-manga.com##div.w-1/2.md:w-full
 ||developers.cloudflare.com^
 
+! --- Date: 2026-11-15 ---
+fin-manga.com##a[href*="lottovipgo.com/master"]
+||lottovipgo.com^
+fin-manga.com##a[href*="befunplay567.com"]
+||befunplay567.com^
+
 ! ==================== [ go-manga.com ] ====================
 ! --- Date: 2026-09-23 ---
 go-manga.com###sticky-bottom
@@ -221,6 +227,10 @@ go-manga.com##a[href*="lottovipgo.com/master"]
 go-manga.com##a[href*="member.uutm789.com"]
 ||member.uutm789.com^
 go-manga.com##a[href*="t.ly/Nato_Banner"]
+
+! --- Date: 2026-11-15 ---
+go-manga.com##a[href*="v1.x-venus.one"]
+||v1.x-venus.one^
 
 ! ==================== [ madoo-manga.com ] ====================
 ! --- Date: 2026-09-23 ---
@@ -319,6 +329,12 @@ nano-manga.com##a[href*="lottovipgo.com/master"]
 ||lottovipgo.com^
 nano-manga.com##a[href*="4ubdqx.s.gy/IO7fEI"]
 ||4ubdqx.s.gy^
+
+! --- Date: 2026-11-15 ---
+nano-manga.com##a[href*="urll.to/tc5crv"]
+||urll.to^
+nano-manga.com##a[href*="v1.x-venus.one"]
+||v1.x-venus.one^
 
 ! ==================== [ oremanga.net ] ====================
 ! --- Date: 2026-09-23 ---
@@ -470,6 +486,12 @@ ped-manga.com##a[href*="t.ly/kingdom66"]
 ped-manga.com##a[href*="reffpa.com/L"]
 ||reffpa.com^
 
+! --- Date: 2026-11-15 ---
+ped-manga.com##a[href*="ufagoal.run"]
+||ufagoal.run^
+ped-manga.com##a[href*="v1.x-venus.one"]
+||v1.x-venus.one^
+
 ! ==================== [ romance-manga.com ] ====================
 ! --- Date: 2026-09-23 ---
 romance-manga.com##a[href*="play.sa-lk.com/signup"]
@@ -478,6 +500,10 @@ romance-manga.com##a[href*="livefootballworldcup.com"]
 ||livefootballworldcup.com^
 romance-manga.com##a[href*="series-168.com"]
 ||series-168.com^
+
+! --- Date: 2026-11-15 ---
+romance-manga.com##a[href*="ufagoal.run"]
+||ufagoal.run^
 
 ! ==================== [ up-manga.com ] ====================
 ! --- Date: 2026-09-23 ---
@@ -560,3 +586,10 @@ up-manga.com##a[href*="4ubdqx.s.gy/ztQ4CX"]
 ||4ubdqx.s.gy^
 up-manga.com##a[href*="befunplay567.com"]
 ||befunplay567.com^
+
+! --- Date: 2026-11-15 ---
+up-manga.com##a[href*="engfootball.com"]
+||engfootball.com^
+up-manga.com##a[href*="v1.x-venus.one"]
+||v1.x-venus.one^
+up-manga.com##a[href*="t.ly/Nato_Banner"]
