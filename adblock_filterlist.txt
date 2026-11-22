@@ -78,6 +78,14 @@ dark-manga.com##a[href*="4ubdqx.s.gy/dv0bfX"]
 dark-manga.com##a[href*="befunplay567.com"]
 ||befunplay567.com^
 
+! --- Date: 2026-11-22 ---
+dark-manga.com##a[href*="cloudflare.com/5xx-error-landing"]
+||cloudflare.com^
+dark-manga.com###cf-cloudflare-status
+dark-manga.com##a[href*="developers.cloudflare.com"]
+dark-manga.com##div.w-1/2.md:w-full
+||developers.cloudflare.com^
+
 ! ==================== [ fin-manga.com ] ====================
 ! --- Date: 2026-09-23 ---
 fin-manga.com###sticky-bottom
@@ -130,6 +138,10 @@ fin-manga.com##a[href*="lottovipgo.com/master"]
 ||lottovipgo.com^
 fin-manga.com##a[href*="befunplay567.com"]
 ||befunplay567.com^
+
+! --- Date: 2026-11-22 ---
+fin-manga.com##a[href*="urll.to/tc5crv"]
+||urll.to^
 
 ! ==================== [ go-manga.com ] ====================
 ! --- Date: 2026-09-23 ---
@@ -232,6 +244,110 @@ go-manga.com##a[href*="t.ly/Nato_Banner"]
 go-manga.com##a[href*="v1.x-venus.one"]
 ||v1.x-venus.one^
 
+! --- Date: 2026-11-22 ---
+go-manga.com##a[href*="app.123xplay.online"]
+||app.123xplay.online^
+go-manga.com##a[href*="multeeshop.com"]
+||multeeshop.com^
+go-manga.com##a[href*="member.popza24z.art/register"]
+||member.popza24z.art^
+go-manga.com##a[href*="bitt.to/axrzd8"]
+||bitt.to^
+
+! ==================== [ goseries4k.com ] ====================
+! --- Date: 2026-11-22 ---
+goseries4k.com##div.vipx-item.vipx-item--floating
+goseries4k.com##a[href*="gomovie4k.com"]
+||gomovie4k.com^
+goseries4k.com##a[href*="ibit.ly/boston777"]
+||ibit.ly^
+goseries4k.com##a[href*="ibit.ly/lockdown168"]
+goseries4k.com##a[href*="ibit.ly/huayhit168"]
+goseries4k.com##a[href*="ibit.ly/ufac4"]
+goseries4k.com##a[href*="ibit.ly/mahagame66"]
+goseries4k.com##a[href*="ibit.ly/sexy365bet"]
+goseries4k.com##a[href*="t.ly/NATO_GOSERIES"]
+||t.ly^
+goseries4k.com##a[href*="m.miracle55.net/register"]
+||m.miracle55.net^
+goseries4k.com##a[href*="t.ly/goseries4k"]
+goseries4k.com##a[href*="cutt.ly/ZyOCOVBs"]
+||cutt.ly^
+goseries4k.com##a[href*="ambking99.lol"]
+||ambking99.lol^
+goseries4k.com##a[href*="cutt.ly/1yYEjZck"]
+goseries4k.com##a[href*="t.ly/goseries4klk1"]
+goseries4k.com##a[href*="befunprize678.com"]
+||befunprize678.com^
+goseries4k.com##a[href*="cutt.ly/Yt27K0kq"]
+goseries4k.com##a[href*="cutt.ly/At27KNCE"]
+goseries4k.com##a[href*="m.next55.online/register"]
+||m.next55.online^
+goseries4k.com##a[href*="ricco289.i3xb.cc"]
+||ricco289.i3xb.cc^
+goseries4k.com##a[href*="t.ly/789stsmovie"]
+goseries4k.com##a[href*="t.ly/r9link"]
+goseries4k.com##a[href*="v1.x-venus.com"]
+||v1.x-venus.com^
+goseries4k.com##a[href*="be.ufaf999.world/register"]
+||be.ufaf999.world^
+goseries4k.com##a[href*="ufaxspin.com/register"]
+||ufaxspin.com^
+goseries4k.com##a[href*="xn--365-1kl1e3c8a5a9q.fan/register"]
+||xn--365-1kl1e3c8a5a9q.fan^
+goseries4k.com##a[href*="88livecasinohouse.com/register"]
+||88livecasinohouse.com^
+goseries4k.com##a[href*="befunprize678.com/th"]
+goseries4k.com##a[href*="v1.x-venus.one"]
+||v1.x-venus.one^
+goseries4k.com##a[href*="sexypg89mkt.com"]
+||sexypg89mkt.com^
+goseries4k.com##a[href*="ufaplay63bapp.com"]
+||ufaplay63bapp.com^
+goseries4k.com##a[href*="poseidons.site/register"]
+||poseidons.site^
+goseries4k.com##a[href*="the88top.com/register"]
+||the88top.com^
+goseries4k.com##a[href*="123vega.art/register-goseries4k"]
+||123vega.art^
+goseries4k.com##a[href*="aff5.mammoth88.cc"]
+||aff5.mammoth88.cc^
+goseries4k.com##a[href*="bth.asia/usgsr4k"]
+||bth.asia^
+goseries4k.com##a[href*="cutt.ly/Sbo888win"]
+goseries4k.com##a[href*="cutt.ly/Bcr888"]
+goseries4k.com##a[href*="cutt.ly/Sboone"]
+goseries4k.com##a[href*="ufayesmkt.com"]
+||ufayesmkt.com^
+goseries4k.com##a[href*="ufabetbnb.info"]
+||ufabetbnb.info^
+goseries4k.com##a[href*="t.ly/Goseries_F16"]
+goseries4k.com##a[href*="888paruay.com/register"]
+||888paruay.com^
+goseries4k.com##a[href*="ufasexygame18.com"]
+||ufasexygame18.com^
+goseries4k.com##a[href*="bth.asia/hpgsr4k"]
+goseries4k.com##a[href*="funky99.biz"]
+||funky99.biz^
+goseries4k.com##a[href*="pgjoker69r.com"]
+||pgjoker69r.com^
+goseries4k.com##a[href*="bth.asia/akgsr4k"]
+goseries4k.com##a[href*="tinyurl.com/11F20B95"]
+||tinyurl.com^
+goseries4k.com##a[href*="ibit.ly/ufa191"]
+goseries4k.com##a[href*="มั่นคง88.cc"]
+||มั่นคง88.cc^
+goseries4k.com##a[href*="ibit.ly/pgw44"]
+goseries4k.com##a[href*="ibit.ly/sbo14k"]
+goseries4k.com##a[href*="ibit.ly/sagame1688"]
+goseries4k.com##a[href*="bth.asia/lkgsr4k"]
+goseries4k.com##a[href*="ibit.ly/panama888"]
+goseries4k.com##div.vipx-grid.vipx--g-d
+goseries4k.com##a[href*="newtanbet.one/register/p9105"]
+||newtanbet.one^
+goseries4k.com##a[href*="ibit.ly/slotgame66"]
+goseries4k.com##a[href*="ibit.ly/ssgame66"]
+
 ! ==================== [ madoo-manga.com ] ====================
 ! --- Date: 2026-09-23 ---
 madoo-manga.com##a[href*="lin.ee/bfkzeOi"]
@@ -280,6 +396,17 @@ manga-lc.net##a[href*="เนเธเธเธซเธต.com"]
 ||เนเธเธเธซเธต.com^
 manga-lc.net##a[href*="เนเธงเนเธเธซเธต.com/category/เธเธฅเธดเธเธซเธฅเธธเธ"]
 ||เนเธงเนเธเธซเธต.com^
+
+! --- Date: 2026-11-22 ---
+manga-lc.net##a[href*="เทพหี.com"]
+||เทพหี.com^
+manga-lc.net##a[href*="เว็บหี.com/category/คลิปหลุด"]
+||เว็บหี.com^
+manga-lc.net##a[href*="77jili77jili.co/31002cu"]
+||77jili77jili.co^
+manga-lc.net##a[href*="cutt.ly/3ySmB1SZ"]
+||cutt.ly^
+manga-lc.net##a[href*="cutt.ly/6ySmB4BB"]
 
 ! ==================== [ nano-manga.com ] ====================
 ! --- Date: 2026-09-23 ---
@@ -335,6 +462,10 @@ nano-manga.com##a[href*="urll.to/tc5crv"]
 ||urll.to^
 nano-manga.com##a[href*="v1.x-venus.one"]
 ||v1.x-venus.one^
+
+! --- Date: 2026-11-22 ---
+nano-manga.com##a[href*="multeeshop.com"]
+||multeeshop.com^
 
 ! ==================== [ oremanga.net ] ====================
 ! --- Date: 2026-09-23 ---
@@ -593,3 +724,11 @@ up-manga.com##a[href*="engfootball.com"]
 up-manga.com##a[href*="v1.x-venus.one"]
 ||v1.x-venus.one^
 up-manga.com##a[href*="t.ly/Nato_Banner"]
+
+! --- Date: 2026-11-22 ---
+up-manga.com##a[href*="multeeshop.com"]
+||multeeshop.com^
+up-manga.com##a[href*="g2grich888.tech"]
+||g2grich888.tech^
+up-manga.com##a[href*="urll.to/6ys60n"]
+||urll.to^
