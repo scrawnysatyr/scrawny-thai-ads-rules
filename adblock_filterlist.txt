@@ -85,6 +85,10 @@ dark-manga.com###cf-cloudflare-status
 dark-manga.com##a[href*="developers.cloudflare.com"]
 dark-manga.com##div.w-1/2.md:w-full
 ||developers.cloudflare.com^
+dark-manga.com##a[href*="multeeshop.com"]
+||multeeshop.com^
+dark-manga.com##a[href*="cutly.ink/6sxuvt"]
+||cutly.ink^
 
 ! ==================== [ fin-manga.com ] ====================
 ! --- Date: 2026-09-23 ---
